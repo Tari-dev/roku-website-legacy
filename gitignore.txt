@@ -1,3 +1,0 @@
-./gifs/rename.py
-./gifs/link.json
-./gifs/getname.py
